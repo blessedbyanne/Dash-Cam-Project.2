@@ -64,5 +64,8 @@ for a real network request, no other screens should need to change.
 - [x] Ticket list + tabs screen
 - [x] Ticket detail + evidence screens
 - [ ] Wired up to live backend
+<<<<<<< HEAD
 
 ![alt text](image.png) 
+=======
+>>>>>>> f72d3e4cebd8eee15e5a87ac3e527d324ca40500
