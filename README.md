@@ -71,3 +71,25 @@ for a real network request, no other screens should need to change.
 ![alt text](image.png) 
 =======
 >>>>>>> f72d3e4cebd8eee15e5a87ac3e527d324ca40500
+
+
+Dash-Cam-Project/
+├── frontend/                  
+│   ├── App.js
+│   ├── app.json
+│   ├── babel.config.js
+│   ├── package.json
+│   ├── screens/
+│   │   ├── TicketListScreen.js
+│   │   ├── TicketDetailScreen.js
+│   │   └── EvidenceScreen.js
+│   └── config/
+│       └── api.js            
+├── backend/                   
+│   ├── app.py (or main.py)
+│   ├── requirements.txt
+│   ├── routes/
+│   ├── services/
+│   └── detection/             
+├── database/                  
+│   ├── schema.sql
