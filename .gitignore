@@ -1,4 +1,5 @@
 node_modules/
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 .env
@@ -6,3 +7,7 @@ __pycache__/
 venv/
 *.exe
 *.zip
+=======
+tempframe.jpg
+*.db
+>>>>>>> upstream/main
